@@ -29,7 +29,7 @@ jobs:
       with:
         # Artifact name
         name: verademo.war
-        path: target/verademo.war
+        path: app/target/verademo.war
 
 # download the Veracode Static Analysis Pipeline scan jar
   Veracode_Pipeline_Scan:
